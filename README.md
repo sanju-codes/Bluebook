@@ -11,4 +11,4 @@ python Bluebook.py <target ip> <target port> <bytes>
 
 
 # Find IP
-$ ping <website URL>
+$ ping website URL
