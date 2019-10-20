@@ -10,5 +10,5 @@ python Bluebook.py <target ip> <target port> <bytes>
 
 
 
-# FIND IP
-ping www.anywebsite.com
+# Find IP
+$ ping <www.anywebsite.com>
